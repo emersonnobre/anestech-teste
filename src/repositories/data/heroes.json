@@ -1,0 +1,224 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Capitão América",
+      "alias": "Steve Rogers",
+      "powers": [
+        "Super força",
+        "Agilidade",
+        "Escudo indestrutível"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "alias": "Thor Odinson",
+      "powers": [
+        "Manipulação de trovões",
+        "Super força",
+        "Voo"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 4,
+      "name": "Hulk",
+      "alias": "Bruce Banner",
+      "powers": [
+        "Super força",
+        "Regeneração",
+        "Invulnerabilidade"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 5,
+      "name": "Viúva Negra",
+      "alias": "Natasha Romanoff",
+      "powers": [
+        "Mestre em artes marciais",
+        "Espionagem",
+        "Habilidades acrobáticas"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 6,
+      "name": "Gavião Arqueiro",
+      "alias": "Clint Barton",
+      "powers": [
+        "Arquearia avançada",
+        "Habilidade de tiro preciso",
+        "Perícia em combate corpo a corpo"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 7,
+      "name": "Pantera Negra",
+      "alias": "T'Challa",
+      "powers": [
+        "Força aprimorada",
+        "Agilidade",
+        "Sentidos aguçados"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 8,
+      "name": "Doutor Estranho",
+      "alias": "Stephen Strange",
+      "powers": [
+        "Magia",
+        "Manipulação da realidade",
+        "Habilidade em artes místicas"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 9,
+      "name": "Homem-Aranha",
+      "alias": "Peter Parker",
+      "powers": [
+        "Agilidade aprimorada",
+        "Força proporcional de aranha",
+        "Sentido de aranha"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 10,
+      "name": "Capitã Marvel",
+      "alias": "Carol Danvers",
+      "powers": [
+        "Voo",
+        "Força sobre-humana",
+        "Projeção de energia"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 11,
+      "name": "Homem-Formiga",
+      "alias": "Scott Lang",
+      "powers": [
+        "Encolhimento",
+        "Comunicação com formigas",
+        "Força aumentada no tamanho diminuído"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 12,
+      "name": "Feiticeira Escarlate",
+      "alias": "Wanda Maximoff",
+      "powers": [
+        "Manipulação da realidade",
+        "Feitiçaria",
+        "Projeção de energia mágica"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 13,
+      "name": "Visão",
+      "alias": "Visão",
+      "powers": [
+        "Intangibilidade",
+        "Super força",
+        "Raio solar"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 14,
+      "name": "Homem-Formiga",
+      "alias": "Hank Pym",
+      "powers": [
+        "Encolhimento",
+        "Aumento de tamanho",
+        "Gênio científico"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 15,
+      "name": "Falcão",
+      "alias": "Sam Wilson",
+      "powers": [
+        "Voo",
+        "Habilidade em combate aéreo",
+        "Escudo alado"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 16,
+      "name": "Máquina de Combate",
+      "alias": "James Rhodes",
+      "powers": [
+        "Armadura de combate",
+        "Voo",
+        "Arsenal avançado"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 17,
+      "name": "Capitã Marvel (Monica Rambeau)",
+      "alias": "Monica Rambeau",
+      "powers": [
+        "Transformação em energia",
+        "Voo",
+        "Projeção de energia"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 18,
+      "name": "Groot",
+      "alias": "Groot",
+      "powers": [
+        "Crescimento acelerado",
+        "Regeneração",
+        "Comunicação com plantas"
+      ],
+      "affiliation": "Guardiões da Galáxia"
+    },
+    {
+      "id": 19,
+      "name": "Rocket Raccoon",
+      "alias": "Rocket",
+      "powers": [
+        "Genialidade tática",
+        "Habilidade em armas",
+        "Agilidade"
+      ],
+      "affiliation": "Guardiões da Galáxia"
+    },
+    {
+      "id": 20,
+      "name": "Doutor Estranho Supremo",
+      "alias": "Stephen Strange",
+      "powers": [
+        "Magia suprema",
+        "Manipulação do tempo",
+        "Conhecimento místico"
+      ],
+      "affiliation": "Vingadores"
+    },
+    {
+      "id": 21,
+      "name": "Capitão Emerson",
+      "alias": "Emerson Nobrezaaaa",
+      "powers": [
+        "Super força",
+        "Agilidade",
+        "Escudo indestrutível"
+      ],
+      "affiliation": "Vingadores"
+    }
+  ]
+}
